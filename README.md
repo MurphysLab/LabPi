@@ -26,13 +26,13 @@ Instructions and scripts for my Raspberry Pi setups &amp; projects
   
   pip did not work
   
-  clone and install worked:
+  clone and install worked, but nees sudo to install:
 
     `$ git clone https://github.com/pyexcel/pyexcel.git`
     
     `$ cd pyexcel`
     
-    `$ python setup.py install`
+    `$ sudo python setup.py install`
    
 ### matplotlib
 
